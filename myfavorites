@@ -1,0 +1,124 @@
+<!doctype html>
+<html>
+<head>
+<title>My Favorites</title>
+<style>
+      table, th, td {
+          color: black
+border: 2px solid black;
+border-color: #525;
+border-style: groove;
+border-width: 10px;
+background-color: #ffccff;
+
+}
+
+       td {
+font-size: 30px;
+text-align: center;
+border-style: outset;
+border-width: 10px;
+border-color: #617;
+}
+
+        #favorites {
+font-size: 60px;
+text-align: center;
+font-family: Arial;
+color: #129;
+}
+          #date {
+font-size: 15px;
+}  
+           #inthisblog {
+font-size: 30px;
+margin-top: -30px;
+}
+               #myfave {
+border: none;
+font-size: 32px;
+                 th, td {
+border-style: dashed;
+}
+
+}
+        
+</style>
+
+</head>
+
+<body>
+<header>
+<h1 id="favorites">My Favorites</h1>
+<h6 id="date">July 12, 2018</h6>
+<h5 id="inthisblog">In this blog I'm going to say all of my favorites.</>
+
+<table>
+    <thead>
+        <tr>
+            <th id="myfave">My Favorite...</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Foods</td>
+            <td>Spaghetti, Burger</td>
+            
+        </tr>
+        <tr>
+            <td>Animals</td>
+            <td> Dogs and Cats</td>
+            
+        </tr>
+        <tr>
+            <td>Colors</td>
+            <td> Skyblue, Red, Pink, Grey, Black,</td>
+            
+        </tr>
+        <tr>
+           <td>Numbers </td>
+            <td>6 because it is my birthday</td>
+            
+        </tr>
+        <tr>
+            <td>Games</td>
+            <td>Super Mario, Scrabble</td>
+           
+        </tr>
+
+
+        <tr>
+            <td>Movies</td>
+            <td>Spaghetti, Burger</td>
+            
+        </tr>
+        <tr>
+            <td>TV shows</td>
+            <td>Showtime, Eat Bulaga</td>
+            
+        </tr>
+        <tr>
+            <td>Cartoons</td>
+            <td> Spongebob, We Bare Bears, My Bean</td>
+            
+        </tr>
+        <tr>
+           <td>Musical Group </td>
+            <td>One Direction, BTS, Twice, </td>
+            
+        </tr>
+        <tr>
+            <td>Song</td>
+            <td>Love Scenario, Anpanman, Bboom Bboom</td>
+           
+        </tr>
+    </tbody>
+    
+    
+</table>
+
+
+
+
+</body>
+</html>
